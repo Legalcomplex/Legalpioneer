@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Company Profiles Dataset
+# Legal Tech Company Profiles
 
 This dataset is part of the larger `legalcomplex` dataset, which provides detailed profiles of companies operating in and around the legal process industry. The data was originally posted on LegalPioneer.org and has been made available under the Open Database License (ODbl).
 
@@ -22,7 +22,8 @@ This dataset is intended for researchers, legal professionals, and industry anal
 
 ## Data Dictionary
 
-For a comprehensive understanding of each field within the CSV file, please refer to the `data_dictionary.md` file included in this repository. The data dictionary outlines every column in the dataset, its data type, and a description of what each entry represents.
+For a comprehensive understanding of each field within the CSV file, please refer to the `data_dictionary.md` file included in this repository. The data dictionary outlines every column in the dataset, its data type, and a description of what each entry represents. Remember, 'Legal Tech' is in the eye of the beholder. Check the [FAQ](https://legalpioneer.org/faq) on Legalpioneer.org for a more extensive explanation. 
+
 
 ## Usage
 
