@@ -65,5 +65,4 @@ This dataset will be updated periodically to reflect new information. Please che
 If you have any questions about this dataset, its usage, or its licensing, please open an issue in the GitHub repository. Your feedback is valuable and helps improve the dataset.
 
 1. How often are updates planned for the dataset? Yet undetermined
-2. Are there any specific use cases or research questions that the dataset is particularly suited for? 
-3. What jurisdiction does this dataset primarily cover, and are there plans to expand to other regions? Global
+2. What jurisdiction does this dataset primarily cover, and are there plans to expand to other regions? Global
