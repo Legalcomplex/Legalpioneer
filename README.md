@@ -15,7 +15,7 @@ The dataset contains a variety of information about 13,000+ companies, including
 - Company name
 - Industry sector
 - Scope of operations
-- Size in personnel
+- Size in terms of personnel
 - Financial data where available
 
 This dataset is intended for researchers, legal professionals, and industry analysts who are interested in the legal process industry's landscape.
@@ -31,8 +31,9 @@ To use this dataset, you should:
 
 1. Ensure that you have the necessary software to open and manipulate CSV files (e.g., Excel, R, Python with pandas).
 2. Review the data dictionary for an understanding of the dataset's structure.
-3. Import the dataset into your preferred data analysis tool.
+3. Import the dataset into your preferred data analysis tool or AI framework.
 4. Perform your analysis or extract insights as required.
+5. Share your findings with the world.
 
 ## License
 
@@ -54,7 +55,7 @@ If you wish to contribute to this dataset, please follow these guidelines:
 
 1. Fork the repository.
 2. Make your changes locally.
-3. Ensure that any new data adheres to the ODbl license and the existing data structure.
+3. Ensure that any new data adheres to the ODbl license.
 4. Submit a pull request with a clear description of your changes.
 
 ## Data Updates
