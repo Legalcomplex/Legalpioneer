@@ -1,15 +1,12 @@
 <p align="center">
   <a href="https://www.legalpioneer.org">
-    <img src="https://legalpioneer.org/wp-content/uploads/2021/06/LP-Banner.jpg" height="256">
+    <img src="https://legalpioneer.org/wp-content/uploads/2024/09/LP-banner-logo.png">
   </a>
-  <h1 align="center">
-    <a href="https://www.legalpioneer.org">Legalpioneer</a>
-  </h1>
 </p>
 
 # Company Profiles Dataset (Legalpioneer)
 
-This dataset is part of the larger `legalcomplex` dataset, which provides detailed profiles of companies operating in and around the legal process industry. The data was originally posted by LegalPioneer.org and has been made available under the Open Database License (ODbl).
+This dataset is part of the larger `legalcomplex` dataset, which provides detailed profiles of companies operating in and around the legal process industry. The data was originally posted on LegalPioneer.org and has been made available under the Open Database License (ODbl).
 
 ## Description
 
