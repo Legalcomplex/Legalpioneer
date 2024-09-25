@@ -66,6 +66,6 @@ This dataset will be updated periodically to reflect new information. Please che
 
 If you have any questions about this dataset, its usage, or its licensing, please open an issue in the GitHub repository. Your feedback is valuable and helps improve the dataset.
 
-1. How often are updates planned for the dataset? Yet undetermined
+1. How often are updates planned for the dataset? Get in touch with Raymond Blyd. 
 2. What jurisdiction does this dataset primarily cover, and are there plans to expand to other regions? Global
 3. What type of companies were excluded? SmartTech companies that leverage large language models to solve business and civic problems e.g. OpenAI. 
