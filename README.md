@@ -47,7 +47,7 @@ However, you must provide attribution as specified by the ODbl license.
 
 ## Attribution
 
-The original data was sourced from LegalPioneer.org. The dataset has been curated and made available under the ODbl license by [Your Name/Organization].
+The original data was sourced from Legalpioneer.org. The dataset has been curated and made available under the ODbl license by [Your Name/Organization].
 
 ## Contributing
 
