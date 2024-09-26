@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Legal Tech Company Profiles
+# Legal Tech Company Profiles by Legalcomplex
 
 This dataset is part of the larger `legalcomplex` dataset, which provides detailed profiles of companies operating in and around the legal process industry. The data was originally posted on Legalpioneer.org and has been made available under the Open Database License (ODbl).
 
