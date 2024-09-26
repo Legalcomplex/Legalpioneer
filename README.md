@@ -58,10 +58,6 @@ If you wish to contribute to this dataset, please follow these guidelines:
 3. Ensure that any new data adheres to the ODbl license.
 4. Submit a pull request with a clear description of your changes.
 
-## Data Updates
-
-This dataset will be updated periodically to reflect new information. Please check back regularly for the latest data.
-
 ## Questions
 
 If you have any questions about this dataset, its usage, or its licensing, please open an issue in the GitHub repository. Your feedback is valuable and helps improve the dataset.
