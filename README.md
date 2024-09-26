@@ -22,7 +22,7 @@ This dataset is intended for researchers, legal professionals, and industry anal
 
 ## Data Dictionary
 
-For a comprehensive understanding of each field within the CSV file, please refer to the `data_dictionary.md` file included in this repository. The data dictionary outlines every column in the dataset, its data type, and a description of what each entry represents. Remember, 'Legal Tech' is in the eye of the beholder. Check the [FAQ](https://legalpioneer.org/faq) on Legalpioneer.org for a more extensive explanation. 
+For a understanding of each field within the CSV file, please refer to the `data_dictionary.md` file included in this repository. The data dictionary outlines every column in the dataset, its data type, and a description of what each entry represents. Remember, 'Legal Tech' is in the eye of the beholder. Check the [FAQ](https://legalpioneer.org/faq) on Legalpioneer.org for some background. 
 
 
 ## Usage
@@ -62,6 +62,6 @@ If you wish to contribute to this dataset, please follow these guidelines:
 
 If you have any questions about this dataset, its usage, or its licensing, please open an issue in the GitHub repository. Your feedback is valuable and helps improve the dataset.
 
-1. How often are updates planned for the dataset? Get in touch with Raymond Blyd. 
+1. How often are updates planned for the dataset? Get in touch with Raymond Blyd over at [Legalcomplex](https://www.legalcomplex.com). 
 2. What jurisdiction does this dataset primarily cover, and are there plans to expand to other regions? Global
 3. What type of companies were excluded? Dead or acquired companies. SmartTech companies that leverage large language models to solve business and civic problems e.g. OpenAI. 
