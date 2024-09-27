@@ -72,4 +72,4 @@ If you have any questions about this dataset, its usage, or its licensing, pleas
 2. What jurisdiction does this dataset primarily cover, and are there plans to expand to other regions? We went to great lengths to cover all geographies. This data set contains over 1000 cities globally.
 3. What type of companies were excluded? Dead or acquired companies. SmartTech companies that leverage large language models to solve business and civic problems e.g. OpenAI.
 
-**Legalpioneers: We Power World Peace**
+<p align="center"><strong>Legalpioneers: We Power World Peace</strong></p>
