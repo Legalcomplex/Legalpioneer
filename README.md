@@ -39,6 +39,7 @@ To use this dataset, you should:
 - **Market Size Definition**: Market size should be assessed by the total number of companies and their investment amounts.
 - **Growth Measurement**: Combine employee counts with company age and financial data. For example, a young company with a growing employee count and $0 in funding represents genuine growth.
 - **Health Indicators**: Market size and growth can indicate which market areas are thriving.
+- **Context is Everything**: Compare recent announcements with past metrics to avoid recency bias. Recency bias can create artificial trends in data interpretation.
 
 ## License
 
