@@ -1,4 +1,4 @@
-# Updated Data Dictionary for Company Profiles Dataset
+# Data Dictionary for Legalpioneer Profiles Dataset
 
 | Field Name       | Type     | Description                                                  | Format          | Notes                                                                                   |
 |-------------------|----------|--------------------------------------------------------------|------------------|----------------------------------------------------------------------------------------|
