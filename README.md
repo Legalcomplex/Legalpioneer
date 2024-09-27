@@ -36,13 +36,9 @@ To use this dataset, you should:
 
 ## Tips
 - **Market Size Calculation**: Allocate a single category to each profile to prevent overlap in data categorization.
-  
-- **Growth Measurement**: Combine employee counts with company age and financial data. For example, a young company with a growing employee count and $0 in funding represents genuine growth.
-
 - **Market Size Definition**: Market size should be assessed by the total number of companies and their investment amounts.
-
+- **Growth Measurement**: Combine employee counts with company age and financial data. For example, a young company with a growing employee count and $0 in funding represents genuine growth.
 - **Health Indicators**: Market size and growth can indicate which market areas are thriving.
-
 
 ## License
 
