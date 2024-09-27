@@ -18,12 +18,11 @@ The dataset contains a variety of information about 13,000+ companies, including
 - Size in terms of personnel
 - Financial data where available
 
-This dataset is intended for researchers, legal professionals, and industry analysts who are interested in the legal process industry's landscape.
+This dataset is intended for students, researchers, entrepreneurs, legal professionals, and industry analysts who are interested in the legal process industry's landscape.
 
 ## Data Dictionary
 
-For a understanding of each field within the CSV file, please refer to the `data_dictionary.md` file included in this repository. The data dictionary outlines every column in the dataset, its data type, and a description of what each entry represents. Remember, 'Legal Tech' is in the eye of the beholder. Check the [FAQ](https://legalpioneer.org/faq) on Legalpioneer.org for some background. 
-
+For a understanding of each field within the CSV file, please refer to the `data_dictionary.md` file included in this repository. The data dictionary outlines every column in the dataset, its data type, and a description of what each entry represents. Note that 'Legal Tech' is in the eye of the beholder. Check the [FAQ](https://legalpioneer.org/faq) on Legalpioneer.org for some background. 
 
 ## Usage
 
@@ -34,6 +33,16 @@ To use this dataset, you should:
 3. Import the dataset into your preferred data analysis tool or AI framework.
 4. Perform your analysis or extract insights as required.
 5. Share your findings with the world.
+
+## Tips
+- **Market Size Calculation**: Allocate a single category to each profile to prevent overlap in data categorization.
+  
+- **Growth Measurement**: Combine employee counts with company age and financial data. For example, a young company with a growing employee count and $0 in funding represents genuine growth.
+
+- **Market Size Definition**: Market size should be assessed by the total number of companies and their investment amounts.
+
+- **Health Indicators**: Market size and growth can indicate which market areas are thriving.
+
 
 ## License
 
