@@ -70,4 +70,6 @@ If you have any questions about this dataset, its usage, or its licensing, pleas
 
 1. How often are updates planned for the dataset? Get in touch with Raymond Blyd over at [Legalcomplex](https://www.legalcomplex.com). 
 2. What jurisdiction does this dataset primarily cover, and are there plans to expand to other regions? We went to great lengths to cover all geographies. This data set contains over 1000 cites globally.
-3. What type of companies were excluded? Dead or acquired companies. SmartTech companies that leverage large language models to solve business and civic problems e.g. OpenAI. 
+3. What type of companies were excluded? Dead or acquired companies. SmartTech companies that leverage large language models to solve business and civic problems e.g. OpenAI.
+
+##Legalpioneers: We Power World Peace
