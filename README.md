@@ -29,7 +29,7 @@ For a understanding of each field within the CSV file, please refer to the `data
 To use this dataset, you should:
 
 1. Ensure that you have the necessary software to open and manipulate CSV files (e.g., Excel, R, Python with pandas).
-2. Review the data dictionary for an understanding of the dataset's structure.
+2. Review the data dictionary to understand the dataset's structure.
 3. Import the dataset into your preferred data analysis tool or AI framework.
 4. Perform your analysis or extract insights as required.
 5. Share your findings with the world.
