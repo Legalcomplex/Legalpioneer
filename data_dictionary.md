@@ -17,4 +17,4 @@
 | City               | String    | The city where the company is headquartered or primarily operates  | `string`         |                                                                                        |
 | Country             | String    | The country where the company is headquartered or primarily operates | `string`         | ISO country code recommended (e.g., 'US' for the United States)                              |
 | Employee      | Integer   | Total number of employees working for the company                | `int`            | Includes full-time, part-time, and contract workers                                        |
-| Raised   | Currency   | Total amount of funds raised in USD by the company through investments, debt, or grants | `decimal`        | Include details on funding rounds, investors if relevant                                    |
+| Raised   | Currency   | Total amount of funds raised in USD by the company through investments, debt, or grants | `decimal`        | Include details on funding rounds                                   |
