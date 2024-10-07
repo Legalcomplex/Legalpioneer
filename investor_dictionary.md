@@ -1,0 +1,15 @@
+# Data Dictionary for Spark Max Investors Dataset
+
+| Field Name      | Type     | Description                                                                                       | Format      | Notes                                                                                   |
+|-----------------|----------|---------------------------------------------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------|
+| Investors       | String   | Name of the investor or venture capital firm                                                       | `string`    | Represents individual or institutional investors who have participated in funding rounds |
+| InvestorLink    | URL      | Direct link to the investor's profile or website                                                   | `URI`       | Provides access to more detailed information about the investor                          |
+| Latest          | Date     | The date when the latest investment or funding round occurred                                      | `date`      | Format: MMM YYYY (e.g., Oct 2024)                                                       |
+| Seed            | Integer  | The number of seed-stage investments made by the investor                                          | `int`       | Refers to early-stage financing for startup companies                                    |
+| Growth          | Integer  | The number of growth-stage investments made by the investor                                        | `int`       | Represents later-stage funding to support scaling businesses                             |
+| Legal           | Integer  | Number of investments made by the investor in the legal sector                                     | `int`       | Focuses on LegalTech startups or companies within the legal industry                     |
+| GRC             | Integer  | Number of investments made by the investor in Governance, Risk Management, and Compliance (GRC)    | `int`       | Focus on GRC companies that help manage compliance and risks                             |
+| RiskTech        | Integer  | Number of investments made in companies focused on risk management technology                      | `int`       | Focuses on RiskTech startups or companies                                                |
+| FinTech         | Integer  | Number of investments made by the investor in financial technology companies                       | `int`       | FinTech investments include companies that focus on financial services innovation        |
+| WealthTech      | Integer  | Number of investments made by the investor in companies focused on wealth management technology    | `int`       | WealthTech focuses on wealth management solutions                                        |
+| Participation   | Currency | The total financial participation (in USD) in all investments made by the investor                | `decimal`   | Represents the aggregate value of the investor's involvement in various rounds (e.g., $96.92B) |
