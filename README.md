@@ -74,7 +74,7 @@ If you have any questions about this dataset, its usage, or its licensing, pleas
 
 ## Btw, are you looking for investors for your (legal) venture?
 
-We dropped 35,000+ on our GitHub - [https://lnkd.in/eqzyUkij](https://lnkd.in/eqzyUkij)
+We dropped 35,000+ here on our GitHub
 
 ### What is it?
 
@@ -86,15 +86,7 @@ The file also has metrics per investor to see if they have or have not invested 
 
 So you can now search for investors based on the fear of missing out (FOMO) on legal 😈.
 
-Btw, If you want to avoid investors in your competitors, let's chat.
+If you want to avoid investors in your competitors, let's chat.
 
-### 4 Datageeks
 
-Legalpioneer has a new column 'number of rounds'. This helps you calculate who and where growth is real versus artificial e.g. multiple rounds with flat employee growth equals artificial 🍭.
-
-### Why are we sharing all this data?
-
-AI should help find and fund 💰 better legal startups. Earth has too many conflicts to resolve ☮️.
-
-Meanwhile, we're working on [Sabaio.com](http://Sabaio.com)
 <p align="center"><strong>Legalpioneers: We Power World Peace</strong></p>
