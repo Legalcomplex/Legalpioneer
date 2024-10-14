@@ -72,4 +72,29 @@ If you have any questions about this dataset, its usage, or its licensing, pleas
 2. What jurisdiction does this dataset primarily cover, and are there plans to expand to other regions? We went to great lengths to cover all geographies. This data set contains over 1000 cities globally.
 3. What type of companies were excluded? Dead or acquired companies at discovery. SmartTech companies that leverage large language models to solve business and civic problems e.g. OpenAI. FinTech, RiskTech and WealthTech, see spark_max_investors.
 
+## Btw, are you looking for investors for your (legal) venture?
+
+We dropped 35,000+ on our GitHub - [https://lnkd.in/eqzyUkij](https://lnkd.in/eqzyUkij)
+
+### What is it?
+
+The `spark_max_investors.csv` file was collected while tracking investments in legal. Every time we stored an investment, we also collected who invested.
+
+### Why is this special?
+
+The file also has metrics per investor to see if they have or have not invested in legal and...will be interested in investing early 😇.
+
+So you can now search for investors based on the fear of missing out (FOMO) on legal 😈.
+
+Btw, If you want to avoid investors in your competitors, let's chat.
+
+### 4 Datageeks
+
+Legalpioneer has a new column 'number of rounds'. This helps you calculate who and where growth is real versus artificial e.g. multiple rounds with flat employee growth equals artificial 🍭.
+
+### Why are we sharing all this data?
+
+AI should help find and fund 💰 better legal startups. Earth has too many conflicts to resolve ☮️.
+
+Meanwhile, we're working on [Sabaio.com](http://Sabaio.com)
 <p align="center"><strong>Legalpioneers: We Power World Peace</strong></p>
