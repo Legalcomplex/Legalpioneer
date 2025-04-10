@@ -68,8 +68,25 @@ If you wish to contribute to this dataset, please follow these guidelines:
 
 If you have any questions about this dataset, its usage, or its licensing, please open an issue in the GitHub repository. Your feedback is valuable and helps improve the dataset.
 
-1. How often are updates planned for the dataset? Get in touch with Raymond Blyd over at [Legalcomplex](https://www.legalcomplex.com). 
+1. How often are updates planned for the dataset? Get in touch with Raymond Blyd over at [Legalcomplex](https://www.legalcomplex.com) for JSON, API or other questions 
 2. What jurisdiction does this dataset primarily cover, and are there plans to expand to other regions? We went to great lengths to cover all geographies. This data set contains over 1000 cities globally.
 3. What type of companies were excluded? Dead or acquired companies at discovery. SmartTech companies that leverage large language models to solve business and civic problems e.g. OpenAI. FinTech, RiskTech and WealthTech, see spark_max_investors.
+
+## Btw, are you looking for investors for your (legal) venture?
+
+We dropped 35,000+ here on our GitHub
+
+### What is it?
+
+The `spark_max_investors.csv` file was collected while tracking investments in legal. Every time we stored an investment, we also collected who invested.
+
+### Why is this special?
+
+The file also has metrics per investor to see if they have or have not invested in legal and...will be interested in investing early 😇.
+
+So you can now search for investors based on the fear of missing out (FOMO) on legal 😈.
+
+If you want to avoid investors in your competitors, let's chat.
+
 
 <p align="center"><strong>Legalpioneers: We Power World Peace</strong></p>
